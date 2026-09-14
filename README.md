@@ -11,4 +11,4 @@
 
 ## 今天
 
-我已经成为 GitHub 高手了！😎
+我正在学习 GitHub 的 Branch！
